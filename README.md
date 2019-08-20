@@ -43,4 +43,5 @@ The idea for the app consists of 4 main screens:
 In the next screenshots you can see a draft version of the result!    
 
 <img src="screenshot1.jpg" width="300" />
-
+<img src="screenshot2.jpg" width="300" />
+<img src="screenshot3.jpg" width="300" />
